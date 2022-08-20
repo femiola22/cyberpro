@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/cyberpro/static/css/main.e20c6e61.css",
-    "main.js": "/cyberpro/static/js/main.1eac091f.js",
+    "main.js": "/cyberpro/static/js/main.f62b2595.js",
     "static/js/787.9f135966.chunk.js": "/cyberpro/static/js/787.9f135966.chunk.js",
     "static/media/cyber_logo_1.png": "/cyberpro/static/media/cyber_logo_1.5512b8c79ee61df0039a.png",
     "index.html": "/cyberpro/index.html",
     "main.e20c6e61.css.map": "/cyberpro/static/css/main.e20c6e61.css.map",
-    "main.1eac091f.js.map": "/cyberpro/static/js/main.1eac091f.js.map",
+    "main.f62b2595.js.map": "/cyberpro/static/js/main.f62b2595.js.map",
     "787.9f135966.chunk.js.map": "/cyberpro/static/js/787.9f135966.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e20c6e61.css",
-    "static/js/main.1eac091f.js"
+    "static/js/main.f62b2595.js"
   ]
 }
